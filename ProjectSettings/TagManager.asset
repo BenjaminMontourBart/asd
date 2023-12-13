@@ -6,14 +6,17 @@ TagManager:
   tags:
   - Ennemi
   - Wall
+  - Levier
+  - Bridge
+  - Obstacle
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - IgnoreNavMesh
   - Water
   - UI
-  - 
+  - IgnoreCamera
   - 
   - 
   - 
